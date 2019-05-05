@@ -1,0 +1,174 @@
+3_25,Magic,76ers,Magic,0.645506832631
+3_25,Grizzlies,Thunder,Thunder,0.644045580372
+3_25,Jazz,Suns,Jazz,0.545968320129
+3_25,Trail Blazers,Nets,Trail Blazers,0.643536087721
+3_26,Hornets,Spurs,Spurs,0.542999997981
+3_26,Cavaliers,Celtics,Cavaliers,0.513864747412
+3_26,Heat,Magic,Heat,0.545702901159
+3_26,Raptors,Bulls,Bulls,0.502890638437
+3_26,Bucks,Rockets,Bucks,0.633103372569
+3_26,Timberwolves,Clippers,Clippers,0.519673211166
+3_26,Pelicans,Hawks,Hawks,0.55509305045
+3_26,Mavericks,Kings,Kings,0.52305276069
+3_26,Nuggets,Pistons,Pistons,0.741377643628
+3_26,Lakers,Wizards,Lakers,0.580505401714
+3_27,Bulls,Trail Blazers,Bulls,0.578743091989
+3_27,Grizzlies,Warriors,Grizzlies,0.548567490821
+3_27,Thunder,Pacers,Thunder,0.549855134461
+3_27,Suns,Wizards,Suns,0.532457992998
+3_27,Jazz,Lakers,Jazz,0.526554184748
+3_28,Pistons,Magic,Magic,0.560454350164
+3_28,76ers,Nets,76ers,0.535446402985
+3_28,Heat,Mavericks,Mavericks,0.506877624001
+3_28,Knicks,Raptors,Knicks,0.521547971293
+3_28,Rockets,Nuggets,Rockets,0.518594441477
+3_28,Bucks,Clippers,Bucks,0.576583716392
+3_28,Pelicans,Kings,Kings,0.548042995521
+3_28,Spurs,Cavaliers,Spurs,0.619158364028
+3_29,Celtics,Pacers,Celtics,0.701881358866
+3_29,Hawks,Trail Blazers,Hawks,0.567358322727
+3_29,Timberwolves,Warriors,Timberwolves,0.500255309332
+3_29,Thunder,Nuggets,Thunder,0.751515079684
+3_29,Jazz,Wizards,Jazz,0.518836970987
+3_29,Lakers,Hornets,Lakers,0.66535684143
+3_30,Clippers,Cavaliers,Clippers,0.504939116552
+3_30,Nets,Celtics,Nets,0.574727767874
+3_30,Rockets,Kings,Rockets,0.563869693486
+3_30,Pistons,Trail Blazers,Trail Blazers,0.652891315792
+3_30,Pacers,Magic,Pacers,0.529535567046
+3_30,Knicks,Heat,Knicks,0.526091976703
+3_30,Bulls,Raptors,Bulls,0.532845052806
+3_30,Timberwolves,76ers,76ers,0.537234521132
+3_30,Suns,Grizzlies,Suns,0.597990031788
+3_31,Hawks,Bucks,Hawks,0.518244410958
+3_31,Thunder,Mavericks,Mavericks,0.522482364608
+3_31,Pelicans,Lakers,Lakers,0.57625228839
+3_31,Spurs,Kings,Spurs,0.501606987871
+3_31,Nuggets,Wizards,Wizards,0.628907304742
+3_31,Warriors,Hornets,Hornets,0.526508239861
+3_31,Clippers,Grizzlies,Clippers,0.67911880334
+4_1,Pacers,Pistons,Pacers,0.652243946818
+4_1,Celtics,Heat,Heat,0.561451765671
+4_1,Nets,Bucks,Bucks,0.515864059619
+4_1,Knicks,Bulls,Knicks,0.538297846377
+4_1,Raptors,Magic,Raptors,0.525577723442
+4_1,Timberwolves,Trail Blazers,Timberwolves,0.507331131389
+4_1,Mavericks,76ers,Mavericks,0.511755250663
+4_1,Jazz,Hornets,Jazz,0.601415967034
+4_1,Suns,Cavaliers,Cavaliers,0.524620911968
+4_2,Thunder,Lakers,Lakers,0.530151710654
+4_2,Spurs,Hawks,Spurs,0.641974700197
+4_2,Kings,Rockets,Kings,0.593172456197
+4_2,Warriors,Nuggets,Warriors,0.737355274506
+4_3,Pistons,Pacers,Pistons,0.508554292981
+4_3,Magic,Knicks,Magic,0.598937294036
+4_3,Wizards,Bulls,Wizards,0.531348806862
+4_3,Hawks,76ers,76ers,0.529442827874
+4_3,Nets,Raptors,Nets,0.541284138051
+4_3,Heat,Celtics,Heat,0.591564873199
+4_3,Pelicans,Hornets,Pelicans,0.567015947012
+4_3,Mavericks,Timberwolves,Mavericks,0.668369789209
+4_3,Nuggets,Spurs,Spurs,0.707068630964
+4_3,Suns,Jazz,Jazz,0.513115364346
+4_3,Trail Blazers,Grizzlies,Trail Blazers,0.725384111407
+4_3,Clippers,Rockets,Clippers,0.516654903454
+4_4,76ers,Bucks,Bucks,0.506170243519
+4_4,Kings,Cavaliers,Kings,0.630176469896
+4_4,Lakers,Warriors,Lakers,0.590604682725
+4_5,Hornets,Raptors,Raptors,0.524113231742
+4_5,Magic,Hawks,Magic,0.571720844899
+4_5,Wizards,Spurs,Wizards,0.511575078802
+4_5,Pacers,Celtics,Pacers,0.608887431706
+4_5,Rockets,Knicks,Knicks,0.516683644622
+4_5,Timberwolves,Heat,Heat,0.527009724922
+4_5,Thunder,Pistons,Thunder,0.613995605942
+4_5,Mavericks,Grizzlies,Mavericks,0.698200052466
+4_5,Jazz,Kings,Jazz,0.532361071216
+4_5,Suns,Pelicans,Pelicans,0.521795768199
+4_5,Nuggets,Trail Blazers,Trail Blazers,0.740578936222
+4_5,Warriors,Cavaliers,Warriors,0.566035786751
+4_5,Clippers,Lakers,Clippers,0.528718473719
+4_6,Bucks,Nets,Bucks,0.551611596579
+4_6,Bulls,76ers,Bulls,0.512428724773
+4_7,Raptors,Heat,Heat,0.503446965993
+4_7,Cavaliers,Spurs,Cavaliers,0.555241559553
+4_7,Timberwolves,Thunder,Thunder,0.525585420128
+4_7,Pistons,Hornets,Pistons,0.536970658897
+4_7,Pacers,Nets,Pacers,0.50612266837
+4_7,Grizzlies,Mavericks,Mavericks,0.575621417518
+4_7,Rockets,Suns,Rockets,0.583724613146
+4_7,Bucks,Hawks,Bucks,0.575308994387
+4_7,Celtics,Magic,Magic,0.508860908661
+4_7,Knicks,Wizards,Knicks,0.503491160632
+4_7,Warriors,Clippers,Warriors,0.535727717965
+4_7,Trail Blazers,Nuggets,Trail Blazers,0.793468524327
+4_7,Kings,Pelicans,Kings,0.592306178519
+4_7,Lakers,Jazz,Lakers,0.524097470358
+4_9,Cavaliers,Hornets,Hornets,0.509496936132
+4_9,Pistons,Grizzlies,Pistons,0.516826940001
+4_9,Wizards,Celtics,Wizards,0.543727758862
+4_9,Heat,76ers,Heat,0.562316428201
+4_9,Bulls,Knicks,Bulls,0.545498174102
+4_9,Timberwolves,Raptors,Raptors,0.545069413119
+4_9,Pelicans,Warriors,Warriors,0.53150509613
+4_9,Mavericks,Suns,Suns,0.510550497716
+4_9,Jazz,Nuggets,Jazz,0.724537335301
+4_9,Thunder,Rockets,Thunder,0.598944842371
+4_9,Lakers,Trail Blazers,Lakers,0.629629769809
+4_10,Hawks,Pacers,Hawks,0.57358460234
+4_10,Nets,Heat,Nets,0.505248126629
+4_10,Hornets,Magic,Hornets,0.509452038211
+4_10,Knicks,Pistons,Knicks,0.540333553857
+4_10,76ers,Bulls,Bulls,0.507274803482
+4_10,Grizzlies,Warriors,Warriors,0.559536907721
+4_10,Bucks,Thunder,Bucks,0.510786404823
+4_10,Spurs,Mavericks,Spurs,0.512732492097
+4_10,Nuggets,Timberwolves,Timberwolves,0.742976081344
+4_10,Clippers,Jazz,Clippers,0.558444219854
+4_10,Trail Blazers,Kings,Kings,0.636798651908
+4_13,76ers,Nets,76ers,0.512778003509
+4_13,Raptors,Magic,Raptors,0.510181122812
+4_13,Warriors,Clippers,Clippers,0.545832778809
+4_13,Nuggets,Spurs,Spurs,0.519744159757
+4_14,Celtics,Pacers,Celtics,0.754494883805
+4_14,Trail Blazers,Thunder,Trail Blazers,0.645774677839
+4_14,Bucks,Pistons,Bucks,0.58455904448
+4_14,Rockets,Jazz,Rockets,0.543410504296
+4_15,76ers,Nets,76ers,0.574876828124
+4_15,Warriors,Clippers,Clippers,0.556335858751
+4_16,Raptors,Magic,Magic,0.537691806748
+4_16,Nuggets,Spurs,Spurs,0.638455211369
+4_16,Trail Blazers,Thunder,Trail Blazers,0.557580214179
+4_17,Celtics,Pacers,Celtics,0.585777619305
+4_17,Bucks,Pistons,Bucks,0.831277302014
+4_17,Rockets,Jazz,Rockets,0.561175587611
+4_18,Nets,76ers,76ers,0.559412523893
+4_18,Spurs,Nuggets,Spurs,0.76002212958
+4_18,Clippers,Warriors,Clippers,0.616668073858
+4_19,Magic,Raptors,Magic,0.595988071305
+4_19,Pacers,Celtics,Pacers,0.573254754485
+4_19,Thunder,Trail Blazers,Trail Blazers,0.515702871242
+4_20,Nets,76ers,76ers,0.518116287758
+4_20,Spurs,Nuggets,Spurs,0.693000476998
+4_20,Pistons,Bucks,Bucks,0.686156653125
+4_20,Jazz,Rockets,Jazz,0.51997623779
+4_21,Pacers,Celtics,Pacers,0.615880593852
+4_21,Clippers,Warriors,Clippers,0.617028017408
+4_21,Magic,Raptors,Magic,0.596546759484
+4_21,Thunder,Trail Blazers,Thunder,0.613967279815
+4_22,Pistons,Bucks,Bucks,0.614345921569
+4_22,Jazz,Rockets,Jazz,0.620276483967
+4_23,Raptors,Magic,Magic,0.528568536145
+4_23,76ers,Nets,76ers,0.553894954081
+4_23,Nuggets,Spurs,Spurs,0.735340273624
+4_23,Trail Blazers,Thunder,Trail Blazers,0.554193723175
+4_24,Rockets,Jazz,Jazz,0.542513807193
+4_24,Warriors,Clippers,Clippers,0.539209444614
+4_25,Spurs,Nuggets,Spurs,0.78577631193
+4_26,Clippers,Warriors,Clippers,0.556337805847
+4_27,Raptors,76ers,76ers,0.509745353001
+4_27,Nuggets,Spurs,Spurs,0.682717385515
+4_28,Bucks,Celtics,Bucks,0.520965150704
+4_28,Warriors,Rockets,Warriors,0.528666208131
+4_29,Raptors,76ers,Raptors,0.569951337849
+4_29,Nuggets,Trail Blazers,Trail Blazers,0.608876066462
